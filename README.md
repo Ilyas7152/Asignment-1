@@ -1,2 +1,2 @@
-# Asignment-1 
+# Assignment-1 
 Khametov Ilyas IT-2503
