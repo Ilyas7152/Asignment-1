@@ -10,7 +10,7 @@ Khametov Ilyas IT-2503
 #8<img width="1176" height="396" alt="image" src="https://github.com/user-attachments/assets/c0f74f81-7449-4074-ac48-cf7251276d3b" /><img width="1204" height="340" alt="image" src="https://github.com/user-attachments/assets/69e40b47-3d9a-4aca-9f33-0f73490ecc77" />
 #9<img width="1154" height="368" alt="image" src="https://github.com/user-attachments/assets/730608db-a31d-48ab-82ed-f6d8af5fdd1a" /><img width="1092" height="327" alt="image" src="https://github.com/user-attachments/assets/d23764f5-2fc1-4ef2-bdc1-09b61341f26f" />
 #10<img width="1160" height="415" alt="image" src="https://github.com/user-attachments/assets/09477072-1407-43d6-b8dd-e78eb4f5db84" /><img width="1189" height="321" alt="image" src="https://github.com/user-attachments/assets/ace799b9-da3a-4a73-bbbe-c2bf8b1a0878" />
-
+It was a good assignment and I inderstood recursion.All tasks were not so hard and I knew how to solve it but only with using if else or loops.After watching some videos I understood recursion.
 
 
 
